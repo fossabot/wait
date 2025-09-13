@@ -1,5 +1,4 @@
 # WAIT
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphillychi3%2Fwait.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphillychi3%2Fwait?ref=badge_shield)
 
 
 > [!WARNING]
@@ -99,6 +98,7 @@ waline:
 GAnalytics:
   enable: true
   id: gogle analy id
+
 ```
 
 ## License
